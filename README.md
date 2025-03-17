@@ -1,7 +1,7 @@
 
-# Full Stack Todo List Application:
+## Full Stack Todo List Application:
 
-## Technologies & Tools
+### Technologies & Tools
 - Spring Boot
 - JPA (Hibernate) + MySQL
 - Lombok
